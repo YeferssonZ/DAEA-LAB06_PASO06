@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Paquete.Paso06</id>
+    <version>0.1.0</version>
+    <authors>Yefersson Guillermo Zuniga Justo</authors>
+    <description>This is a Razor component library with a cool modal window component.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="8.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\DAEA\Laboratorio 06\Paso06\bin\Release\net8.0\Paso06.dll" target="lib\net8.0\Paso06.dll" />
+    <file src="C:\DAEA\Laboratorio 06\Paso06\obj\Release\net8.0\scopedcss\projectbundle\Paquete.Paso06.bundle.scp.css" target="staticwebassets\Paquete.Paso06.bundle.scp.css" />
+    <file src="C:\DAEA\Laboratorio 06\Paso06\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\DAEA\Laboratorio 06\Paso06\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="C:\DAEA\Laboratorio 06\Paso06\obj\Release\net8.0\staticwebassets\msbuild.Paquete.Paso06.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\DAEA\Laboratorio 06\Paso06\obj\Release\net8.0\staticwebassets\msbuild.build.Paquete.Paso06.props" target="build\Paquete.Paso06.props" />
+    <file src="C:\DAEA\Laboratorio 06\Paso06\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Paquete.Paso06.props" target="buildMultiTargeting\Paquete.Paso06.props" />
+    <file src="C:\DAEA\Laboratorio 06\Paso06\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Paquete.Paso06.props" target="buildTransitive\Paquete.Paso06.props" />
+  </files>
+</package>

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DAEA\\Laboratorio 06\\Paso06\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Paquete.Paso06.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Paquete.Paso06.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\DAEA\\Laboratorio 06\\Paso06\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\DAEA\\Laboratorio 06\\Paso06\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Paquete.Paso06.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Paquete.Paso06.props",
+      "PackagePath": "build\\Paquete.Paso06.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Paquete.Paso06.props",
+      "PackagePath": "buildMultiTargeting\\Paquete.Paso06.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Paquete.Paso06.props",
+      "PackagePath": "buildTransitive\\Paquete.Paso06.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
